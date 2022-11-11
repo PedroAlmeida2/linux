@@ -1,0 +1,28 @@
+pwm - mostrar onde você está
+cd - mudar diretório
+mkdir - criar diretório
+bash - interpretador de comandos do linux
+linux é case sensitive - letra maiúscula e minúscula faz diferença
+root - #
+usuário - $
+su - trocar usuaário
+cat - lista os conteúdos de um arquivo de texto
+cp - copia arquivos do diretório atual para um diferente
+mv - pode ser usado para mover ou renomear arquivos
+rmdir - permite deletar diretórios vazios
+find - localizar aquivos ou pastas dentro de um diretório específico
+grep - permite que você procure através de todo texto dentro de um arquivo específico
+sudo - permite executar tarefas que exigem permissões root
+hostname - mostra o nome da máquina
+ip a - mostra as configurações de rede
+lsb_release -a - mostra a versão do linux
+history - exibe os últimos comandos digitados
+"|more" - mostra informações de forma "pausada"
+vi "nome arquivo" - arquivo de texto
+apertar esc depois shift+":" - entrar no modo comando do arquivo de texto
+"q!" no comando do arquivo - sair do arquivo sem salvar
+"wq" no comando do arquivo - salvar arquivo e sair
+delete - apaga a letra que o cursor está em cima
+"i" habilita para digitar
+"a" habilita para digitar à partir do cursor
+"o" habilita para digitar à partir da linha de baixo
